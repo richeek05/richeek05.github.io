@@ -2,6 +2,14 @@ html, body {
     margin: 0;
     border: 0;
     font-size: 100%;
-    background-color: #000000;
-    color: #ffffff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+    background-color: #da8b8b;
+    color: #f7f2f2;
+  }
+
+  h1{
+    text-align: justify;
+    text-decoration: underline;
+    color: rgb(110, 24, 24);
   }
